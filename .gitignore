@@ -2,7 +2,6 @@
 
 # dependencies
 /smart-contracts/node_modules
-/smart-contracts/package.json
 /smart-contracts/package-lock.json
 
 #env
@@ -16,7 +15,6 @@
 
 # dependencies
 /client/node_modules
-/client/package.json
 /client/package-lock.json
 
 # env
