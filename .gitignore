@@ -1,0 +1,30 @@
+# Smart Contract
+
+# dependencies
+/smart-contracts/node_modules
+/smart-contracts/package.json
+/smart-contracts/package-lock.json
+
+#env
+/smart-contracts/.env
+
+#artifacts
+/smart-contracts/cache
+/smart-contracts/artifacts
+
+# Client
+
+# dependencies
+/client/node_modules
+/client/package.json
+/client/package-lock.json
+
+# env
+/client/.env
+
+# testing
+/client/coverage
+
+# production
+/client/build
+
